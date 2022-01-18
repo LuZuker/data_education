@@ -1,1 +1,1 @@
-# data_education
+# Data education project
